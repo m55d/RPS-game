@@ -35,6 +35,8 @@ Make sure you have a web browser installed to run this game.
 
 3. Open the `index.html` file in your web browser.
 
+4. Or you can use the direct hosted link https://m55d.github.io/rcs-game/
+
 ## How to Play
 
 1. When you start the game, choose whether to play against the computer or a friend.
