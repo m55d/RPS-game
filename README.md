@@ -1,5 +1,4 @@
 
-```markdown
 # Rock-Paper-Scissors Game
 
 A fun and interactive Rock-Paper-Scissors game built with HTML, CSS, and JavaScript. This game allows you to play against another person or against the computer. 
